@@ -27,6 +27,13 @@ h2 {
     text-transform: uppercase;
 }
 
+h3 {
+    font-family: Averta, sans-serif;
+    color: #fff;
+    text-transform: uppercase; 
+    margin-left:2.5em;
+}
+
 p {
     margin-bottom: 20px;
     font-family: Averta, sans-serif;
